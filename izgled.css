@@ -4,7 +4,7 @@ ul
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: #222831;
     position: -webkit-sticky;
     position: sticky;
     top: 0;
@@ -12,7 +12,7 @@ ul
 li 
   {
     float: left;
-    border-right: 1px solid #bbb;
+    border-right: 1px solid #eee;
   }
 li:last-child
   {
@@ -28,15 +28,13 @@ li a
   }
 li a:hover 
   {
-    background-color: #111;
+    background-color: #76ABAE;
   }
 .active 
   {
-    background-color: #04AA6D;
+    background-color: #31363F;
   }
 .header
   {
     background-image: url("https://www.bigissue.com/wp-content/uploads/2021/10/Dan-Reynolds-and-Imagine-Dragons-credit-Eric-Ray-Davidson.jpg");
-    background-size: 100%;
-    
   }
