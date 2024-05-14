@@ -4,7 +4,7 @@ ul
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #222831;
+    background-color: #212A3E;
     position: -webkit-sticky;
     position: sticky;
     top: 0;
@@ -12,7 +12,7 @@ ul
 li 
   {
     float: left;
-    border-right: 1px solid #eee;
+    border-right: 1px solid #f1f6f9;
   }
 li:last-child
   {
@@ -28,11 +28,11 @@ li a
   }
 li a:hover 
   {
-    background-color: #76ABAE;
+    background-color: #9BA4B5;
   }
 .active 
   {
-    background-color: #31363F;
+    background-color: #394867;
   }
 .header
   {
