@@ -38,3 +38,11 @@ li a:hover
   {
     background-image: url("https://www.bigissue.com/wp-content/uploads/2021/10/Dan-Reynolds-and-Imagine-Dragons-credit-Eric-Ray-Davidson.jpg");
   }
+.slika
+{
+  text-align: center;
+  padding-bottom: 960px;
+  padding-top: 960px;
+  padding-left: 540px;
+  padding-right: 540px;
+}
