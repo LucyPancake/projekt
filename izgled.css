@@ -40,6 +40,8 @@ li a:hover
   }
 .slika
 {
+  color: white;
+  font-size: larger;
   text-align: center;
   padding-bottom: 480px;
   padding-top: 480px;
