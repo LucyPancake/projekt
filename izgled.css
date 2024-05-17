@@ -1,5 +1,5 @@
 ul 
-{
+ {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -37,9 +37,12 @@ li a:hover
 .header
   {
     background-image: url("https://www.bigissue.com/wp-content/uploads/2021/10/Dan-Reynolds-and-Imagine-Dragons-credit-Eric-Ray-Davidson.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-size: 100% 100%
   }
 .slika
-{
+ {
   color: white;
   font-size: 100px;
   text-align: center;
@@ -47,5 +50,5 @@ li a:hover
   padding-bottom: 120px;
   padding-top: 120px;
   padding-left: 270px;
-  padding-right: 270px;
-}
+  padding-right: 270px; 
+ }
