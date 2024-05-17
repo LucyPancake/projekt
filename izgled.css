@@ -41,10 +41,11 @@ li a:hover
 .slika
 {
   color: white;
-  font-size: xx-large;
+  font-size: 100px;
   text-align: center;
-  padding-bottom: 480px;
-  padding-top: 480px;
+  font-family: 'Lucida Handwriting', cursive, sans-serif;
+  padding-bottom: 240px;
+  padding-top: 240px;
   padding-left: 270px;
   padding-right: 270px;
 }
