@@ -8,17 +8,17 @@ ul
   position: -webkit-sticky;
   position: sticky;
   top: 0;
-  }
-li 
+ }
+li.tab 
   {
   float: left;
   border-right: 1px solid #f1f6f9;
   }
-li:last-child
+li.tab:last-child
   {
   border-right: none;
   }
-li a 
+li.tab a 
   {
   display: block;
   color: white;
@@ -26,7 +26,7 @@ li a
   padding: 14px 16px;
   text-decoration: none;
   }
-li a:hover 
+li.tab a:hover 
   {
   background-color: #9BA4B5;
   }
