@@ -1,45 +1,45 @@
 ul 
  {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #212A3E;
-    position: -webkit-sticky;
-    position: sticky;
-    top: 0;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #212A3E;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
   }
 li 
   {
-    float: left;
-    border-right: 1px solid #f1f6f9;
+  float: left;
+  border-right: 1px solid #f1f6f9;
   }
 li:last-child
   {
-    border-right: none;
+  border-right: none;
   }
 li a 
   {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
   }
 li a:hover 
   {
-    background-color: #9BA4B5;
+  background-color: #9BA4B5;
   }
 .active 
   {
-    background-color: #394867;
+  background-color: #394867;
   }
 .header
   {
-    background-image: url("https://www.bigissue.com/wp-content/uploads/2021/10/Dan-Reynolds-and-Imagine-Dragons-credit-Eric-Ray-Davidson.jpg");
-    background-repeat: no-repeat;
-    background-attachment: fixed; 
-    background-size: 100% 100%
+  background-image: url("https://www.bigissue.com/wp-content/uploads/2021/10/Dan-Reynolds-and-Imagine-Dragons-credit-Eric-Ray-Davidson.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: 100% 100%
   }
 .slika
  {
