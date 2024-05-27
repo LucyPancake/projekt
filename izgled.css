@@ -95,6 +95,11 @@ li.tab a:hover
   margin-right: 5%;
   font-size: x-large;
 }
-body{
-  margin:auto;
+body
+{
+  margin: auto;
+}
+.poc1
+{
+  margin: auto;
 }
