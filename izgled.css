@@ -93,4 +93,15 @@ li.tab a:hover
   opacity: 0;
   width: 45%;
  }
- 
+.thumb.1
+{
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/0/04/Imagine_Dragons%2C_Roundhouse%2C_London_%2835390234536%29.jpg);
+}
+.thumb.2
+{
+  background-image: url(https://www.theoaklandpress.com/wp-content/uploads/2022/08/ImagineDragonsPK22.jpg?w=490);
+}
+.thumb.3
+{
+  background-image: url(https://img.nrj.fr/FJFKzY8lS-RmHvEa8XeC95wVafA=/0x415/smart/medias%2F2024%2F03%2Fgz4gwtcuhty8ouqgvn-irnskvkokele1u-pgim-uspy_65f2d9372c3f5.jpg);
+}
