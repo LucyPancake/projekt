@@ -95,14 +95,10 @@ li.tab a:hover
   margin-right: 5%;
   font-size: x-large;
 }
-body
-{
-  margin-left: auto;
-  margin-right: auto;
-}
 .poc1
 {
-  margin: auto;
+  margin-left: auto;
+  margin-right: auto
 }
 .naslovi
 {
