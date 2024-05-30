@@ -63,31 +63,6 @@ li.tab a:hover
  {
   text-decoration: none;
  }
- .gallery
- {
-  position: relative;
- }
-.gallery:hover .thumb
- {
-  opacity: .7;
- }
- .thumb
- {
-  height: 100px;
-  width: 12.5%;
-  background: no-repeat center center;
-  background-size: cover;
-  transition: opacity 600ms;
- }
- .gallery .thumb:hover
- {
-  opacity: 1;
- }
- .thumb:before, .thumb::after
- {
-  opacity: 0;
-  width: 45%;
- }
 .tekst1
 {
   text-align: center;
