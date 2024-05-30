@@ -74,6 +74,10 @@ body
 {
   margin-left: auto;
   margin-right: auto;
+  background-image: url(https://nicocasel.net/blog/wp-content/uploads/2015/12/html5-w3c-logo.png), url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMDiA7BRD2UF7wNIUu_G6El9QZvioADJhYZg&s);
+  background-position-y: bottom, bottom;
+  background-position-x: right, right;
+  background-repeat: no-repeat, no-repeat;
 }
 .poc1
 {
