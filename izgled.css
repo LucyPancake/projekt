@@ -114,9 +114,9 @@ body
 
 div.gallery 
 {
-  margin: auto;
+  margin-left: auto;
+  margin-right: auto;
   border: 1px solid #ccc;
-  float: left;
   width: 360px;
 }
 
@@ -134,4 +134,10 @@ div.gallery img
 div.desc {
   padding: 15px;
   text-align: center;
+}
+.obrazac
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
