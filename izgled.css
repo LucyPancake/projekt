@@ -78,6 +78,7 @@ body
   background-position-y: bottom, bottom;
   background-position-x: right, right;
   background-repeat: no-repeat, no-repeat;
+  background-size: 100px, 120px;
 }
 .poc1
 {
